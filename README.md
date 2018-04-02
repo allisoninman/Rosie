@@ -1,33 +1,17 @@
-# IWH2018
-Project for HackerEarth's International Women's Hackathon: https://www.hackerearth.com/sprints/international-women-hackathon-2018/
+# Rosie
 
-# Idea: 
+Rosie is a Chrome extension that detects undermining language and suggests more confident phrasing to help people represent themselves as the professionals they are.
 
-Language is everything. The #1 skill that employers look for is communication, and in many cases, it can make or break someone’s first impression of you.  Research finds that women are very likely to use words in emails that undermine our authority and make us come across as less competent and confident in our abilities. Examples of words and phrases that show this are: “I don’t know if this is right, but…” , “just”, “sorry”, “hopefully”, and “kind of”. 
+This extension is named for Rosie the Riveter, who is an American symbol for female empowerment in the workplace. Teaching yourself to write confidently will help you develop a good relationship with your colleagues, negotiate salary offers, and establish your credibility as a professional.
 
-Oftentimes, we don’t realize we are doing this. To solve this and help women adopt more self-confident, empowering language at work and in life, we introduce Rosie, a Google Chrome extension that detects and warns about self-undermining language when writing emails, messages, or social media posts and provide suggestions for words that do us justice.
+Forbes asserts that using words like “just” or “maybe”, apologizing when unneeded, or using phrases like “I’m no expert” or “I don’t know” all demean confidence in the workplace. We polled over 100 people for words they have identified during business conversations that make themselves sound less confident. From this, we gathered 45 words and phrases that Rosie can identify and offer suggestions for change.
 
-# Features that we want to build:
-* Functionality that searches text input for self-undermining words and phrases.
-* Popup that shows
-* Suggestions for ways to change your language to be more assertive and empowering.
-* Messages to help you feel more self confident
+Rosie can be used with Gmail, Google Inbox, Outlook, Yahoo, LinkedIn, and Slack.
 
-# Features that are good to have:
-* Website to display research
-* Guidelines for contributing to our project
-* Text analysis on website for larger documents that are not being edited live
+We believe that Rosie will be a very powerful tool for working women everywhere and we want to keep improving it to make it even more impactful. We would like to improve our text analysis to include more words and phrases and do sentiment analysis to catch other indicators of low confidence. We also want to improve the text analysis to happen in real time so that as the user edits their message in the Rosie, the text analysis will update automatically with any warnings. Finally, we want to expand support to more websites and give users a way to copy their message into the Rosie extension so that it can be used on any website.
 
-# Constraints:
-* Limited experience in text analysis
-* Advertising the product
-* User experience
-* Want to show warnings on the screen that don’t make the screen too distracting or busy
+To keep updated on Rosie and learn more about the project, visit [our website](https://rosiesays.github.io/about/)!
 
+# International Women's Hackathon
 
-
-# Future Plans:
-* Making the project open source
-* Write articles about the Chrome extension in blogs and share on social media to spread awareness
-* Create similar extensions for other popular browsers like Firefox, Safari, or Microsoft Edge.
-
+Rosie took 1st place in [HackerEarth's International Women's Hackathon 2018](https://www.hackerearth.com/sprints/international-women-hackathon-2018/)!
